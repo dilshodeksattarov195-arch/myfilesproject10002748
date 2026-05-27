@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpetch",
+        "uuid": 8647956,
+        "checksum": "wpsloq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
